@@ -3,8 +3,10 @@
 public class exercicioArea {
 
     public static void main(String[]args){ 
-        exercicioArea.calcularArea(3);
-        }
+        exercicioArea.calcularArea(5);
+        exercicioArea.calcularArea(5,2);
+        exercicioArea.calcularArea(5,4,3);
+    }
 
     public static void calcularArea(double lado1, double lado2){
 	    double area = lado1 * lado2;
