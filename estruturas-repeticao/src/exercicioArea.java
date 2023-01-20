@@ -4,7 +4,7 @@ public class exercicioArea {
 
     public static void main(String[]args){ 
         exercicioArea.calcularArea(5);
-        exercicioArea.calcularArea(5,2);
+        exercicioArea.calcularArea(5,3);
         exercicioArea.calcularArea(5,4,3);
     }
 
